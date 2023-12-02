@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dingaidarbek
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Python, Java, KMM
+- 💞️ I’m looking to collaborate on Mobile Application Projects
+- 📫 How to reach me Telegram: @dima2k
