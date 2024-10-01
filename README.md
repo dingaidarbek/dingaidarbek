@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dingaidarbek
-- 👀 I’m interested in Web & Mobile Application Development
+- 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning Java, Python
-- 💞️ I’m looking to collaborate on Web & Mobile Application Projects
+- 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me Telegram: @dingaidarbek
